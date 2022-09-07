@@ -1,0 +1,4 @@
+AuthUserFile /home1/t/tjss/public_html/personal/.htpasswd 
+AuthType Basic
+AuthName "Personal Homepage"
+Require valid-user
